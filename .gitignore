@@ -3,6 +3,7 @@
 .idea/
 build/
 app/build/
+.DS_Store
 *.iml
 local.properties
 # Local configuration file (sdk path, etc)
