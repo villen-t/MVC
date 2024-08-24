@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">MVC</string>
-    <string name="get_banner_info">获取用户信息</string>
+    <string name="get_banner_info">获取网络数据</string>
 </resources>
